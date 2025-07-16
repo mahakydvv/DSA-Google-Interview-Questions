@@ -7,7 +7,6 @@ This blog covers the most frequently asked **Data Structures & Algorithms** ques
 🚀 Want to prepare smart and fast?  
 👉 [Read the full blog here on Medium[](https://medium.com/@saral.mahak22/top-50-data-structures-algorithms-questions-asked-in-google-interviews-XXXX](https://medium.com/@saral.mahak22/top-50-data-structures-algorithms-questions-asked-in-google-interviews-d3140e96259d))
 
----
 
 🧠 Authored by [Mahak Yadav](https://medium.com/@saral.mahak22)  
 💻 Powered by mentorship from IITians  
